@@ -1,3 +1,9 @@
+| :warning: WARNING          |
+|:---------------------------|
+| This project is no longer maintained and I recommend you to check out other docker Valheim projects like: |
+| [mbround18's repository](https://github.com/mbround18/valheim-docker) |
+| [lloesche's repository](https://github.com/lloesche/valheim-server-docker) |
+
 # Docker Valheim server
 
 To run:
